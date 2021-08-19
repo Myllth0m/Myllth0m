@@ -6,7 +6,7 @@
 
 Sou estudante de Analise de sistemas pela UNIRON/RO 👨‍💻
 
-Trabalho como desenvolvedor web na SETIC/RO 🏢
+Trabalho como desenvolvedor de software na SETIC/RO 🏢
 
 Tenho C# como linguagem de programação principal, mas futuramente pretendo trabalhar com computação em nuvem ☁️ e aplicações em ReactJS ⚛️
 
