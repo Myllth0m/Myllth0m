@@ -1,7 +1,7 @@
-<img align="right" width="280" height="400" src="https://media.giphy.com/media/2aZC4paoGi46LObJ9H/giphy.gif">
- 
+<img align="right" width="280" height="436" src="https://media.giphy.com/media/bOiZKcJcpCweIwJFZu/giphy.gif">
+
 # Olá, bem-vindo 👋
- 
+
 ## Me chamo Milton Daniel Yama 
 
 Sou estudante de Analise de sistemas pela UNIRON/RO 👨‍💻
