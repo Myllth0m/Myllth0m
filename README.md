@@ -1,3 +1,5 @@
+### O pato de oculos te dá um salve :duck::dark_sunglasses::thumbsup: 
+
                               .,***********,.                               
                           ,*,*,***********//////,                           
                        ,********/%@@@@@@@@(///////.                         
